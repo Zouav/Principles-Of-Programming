@@ -1,0 +1,6 @@
+C:\Users\alexa\source\repos\PoP_2\bin\Debug\PoP_2.exe.config
+C:\Users\alexa\source\repos\PoP_2\bin\Debug\PoP_2.exe
+C:\Users\alexa\source\repos\PoP_2\bin\Debug\PoP_2.pdb
+C:\Users\alexa\source\repos\PoP_2\obj\Debug\PoP_2.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\PoP_2\obj\Debug\PoP_2.exe
+C:\Users\alexa\source\repos\PoP_2\obj\Debug\PoP_2.pdb
