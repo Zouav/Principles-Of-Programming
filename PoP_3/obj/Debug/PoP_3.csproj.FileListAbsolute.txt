@@ -1,0 +1,6 @@
+C:\Users\alexa\source\repos\PoP_3\bin\Debug\PoP_3.exe.config
+C:\Users\alexa\source\repos\PoP_3\bin\Debug\PoP_3.exe
+C:\Users\alexa\source\repos\PoP_3\bin\Debug\PoP_3.pdb
+C:\Users\alexa\source\repos\PoP_3\obj\Debug\PoP_3.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\PoP_3\obj\Debug\PoP_3.exe
+C:\Users\alexa\source\repos\PoP_3\obj\Debug\PoP_3.pdb
